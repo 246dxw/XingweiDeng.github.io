@@ -50,7 +50,7 @@ redirect_from:
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-affinity multi-modal class centroids for unsupervised domain adaption</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Xingwei Deng</u></strong>, Yangtao Wang, Yanzhao Xie, Xiaocui Li, Maobin Tang, Meie Fang, Wensheng Zhang </p>
-    <p style="margin: 0 0 10px 0;"><em>PR 2026</em></p>
+    <p style="margin: 0 0 10px 0;"><em>Pattern Recognition 2025</em></p>
     <p style="margin: 0;">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325007551">arXiv</a>| 
       <a href="https://github.com/XingweiDeng/PMCC">Project</a> | 
