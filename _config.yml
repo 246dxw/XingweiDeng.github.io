@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,12 +47,12 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/XingweiDeng"
-  kaggle           : # Username  
+  kaggle           : "https://www.kaggle.com/xingweideng" # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -75,7 +75,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/ha-ha-ha-huan-you-shui-12" # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
