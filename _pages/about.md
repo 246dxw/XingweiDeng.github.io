@@ -56,43 +56,25 @@ redirect_from:
 
 <hr />
 
+# 💻 Project
+* Project 1
 
+* Project 2
 
-<img src="https://img.shields.io/badge/NN-2025-228B22?style=flat-square"> 
-<strong><u>Xingwei Deng</u></strong>, ,.  &quot;**论文标题**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[Code](https://github.com/ElleZWQ/MHCD)]
+* Project 3
 
+# 📖 Work experience
 
-## Preprints & Under Submission
+* March 2021 - Now: Research Assistant
 
-<img src="https://img.shields.io/badge/arXiv-2505.18770-B31B1B?style=flat-square">
-<strong><u>Xingwei Deng</u></strong>, ,,,,,.  &quot;**论文标题**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
+* August 2020 - Now: Research Assistant
+
+* April 2018 – July 2020: Research Assistant
 
 
 # 🏅 Honors and Awards
 
 * 荣誉 奖项
-
-<!-- 
-
-# 📖 Work experience
-
-* March 2021 - Now: Research Assistant
-  * Microsoft Research Asia, Beijing, China.
-  * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
-  * Advisor: Prof. [Jingdong Wang](https://jingdongwang2017.github.io/)
-
-* August 2020 - Now: Research Assistant
-  * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu)
-  * Co-Advisors: Prof. [Zhang Zhang](https://scholar.google.com/citations?user=rnRNwEMAAAAJ&hl=en) and Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN)
-
-* April 2018 – July 2020: Research Assistant
-  * South China University of Technology, Guangzhou, China.
-  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
-    platforms, and federal learning platforms.
-  * Advisor: Prof. Xinglin Zhang
-    -->
 
 
 <!-- 

@@ -18,6 +18,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Project"
+  url: "/#-project"
+
+  - title: "Work experience"
+  url: "/#-work-experience"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
