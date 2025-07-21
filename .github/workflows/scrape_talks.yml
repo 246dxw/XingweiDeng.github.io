@@ -34,3 +34,7 @@ jobs:
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push
+        
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: true
