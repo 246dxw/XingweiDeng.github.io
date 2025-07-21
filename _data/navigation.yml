@@ -19,10 +19,10 @@ main:
     url: "/#-publications"
 
   - title: "Project"
-  url: "/#-project"
+    url: "/#-project"
 
   - title: "Work experience"
-  url: "/#-work-experience"
+    url: "/#-work-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
