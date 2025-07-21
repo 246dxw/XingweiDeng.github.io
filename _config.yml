@@ -20,11 +20,11 @@ repository               : "XingweiDeng/bsh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xingwei Deng | 邓幸维"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Guangzhou"
   employer         : "Guangzhou University"
   uri              : # URL
   email            : "2984096340@qq.com/2112406059@e.gzhu.edu.cn" 
