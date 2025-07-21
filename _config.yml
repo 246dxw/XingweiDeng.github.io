@@ -21,13 +21,13 @@ repository               : "XingweiDeng/bsh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xingwei Deng | 邓幸维"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Guangzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2984096340@qq.com/2112406059@e.gzhu.edu.cn" 
 
   # Academic websites
   academia         : # URL
