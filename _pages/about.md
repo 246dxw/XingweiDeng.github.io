@@ -29,6 +29,12 @@ redirect_from:
 
 自我介绍
 
+# 🎓 Educations
+
+* September 2020 - now: GuangZhou University
+
+* September 2020 - June  2024: GuangZhou University
+
 
 # 🔥 News
 
@@ -40,15 +46,15 @@ redirect_from:
 ## Published
 
 <div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
-  <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
+  <img src="images/paper/pmcc.png" alt="PMCC" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">论文标题</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Xingwei Deng</u></strong>, , , , </p>
-    <p style="margin: 0 0 10px 0;"><em>期刊/会议</em></p>
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-affinity multi-modal class centroids for unsupervised domain adaption</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Xingwei Deng</u></strong>, Yangtao Wang, Yanzhao Xie, Xiaocui Li, Maobin Tang, Meie Fang, Wensheng Zhang </p>
+    <p style="margin: 0 0 10px 0;"><em>PR 2026</em></p>
     <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2502.02853">arXiv</a>| 
-      <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
-      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325007551">arXiv</a>| 
+      <a href="https://github.com/XingweiDeng/PMCC">Project</a> | 
+      <a href="https://github.com/XingweiDeng/PMCC">Code</a>
       </p>
   </div>
 </div>
