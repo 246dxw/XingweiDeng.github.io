@@ -42,7 +42,7 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">论文名</h3>
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">论文标题</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Xingwei Deng</u></strong>, , , , </p>
     <p style="margin: 0 0 10px 0;"><em>期刊/会议</em></p>
     <p style="margin: 0;">
@@ -59,13 +59,13 @@ redirect_from:
 
 
 <img src="https://img.shields.io/badge/NN-2025-228B22?style=flat-square"> 
-Wanqi Zhou, <strong><u>Xingwei Deng</u></strong>, ,.  &quot;**论文名**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[Code](https://github.com/ElleZWQ/MHCD)]
+<strong><u>Xingwei Deng</u></strong>, ,.  &quot;**论文标题**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[Code](https://github.com/ElleZWQ/MHCD)]
 
 
 ## Preprints & Under Submission
 
 <img src="https://img.shields.io/badge/arXiv-2505.18770-B31B1B?style=flat-square">
-Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
+<strong><u>Xingwei Deng</u></strong>, ,,,,,.  &quot;**论文标题**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[Code](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
 
 
 # 🏅 Honors and Awards
